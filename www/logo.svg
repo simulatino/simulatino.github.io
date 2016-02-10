@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.63999mm"
+   height="13.21355mm"
+   viewBox="0 0 218.4095 46.81968"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4213"
+         style="fill:#bd0000;fill-opacity:1;fill-rule:evenodd;stroke:#bd0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.718588,4.033735 -2.207289,0.0160133 8.718588,-4.001708 c -1.745498,2.372061 -1.73544,5.617452 0,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4195"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4210"
+         style="fill:#bd0000;fill-opacity:1;fill-rule:evenodd;stroke:#bd0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.718588,4.033735 -2.207289,0.0160133 8.718588,-4.001708 c -1.745498,2.372061 -1.73544,5.617452 0,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3352"
+       is_visible="true" />
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(21.80627,0,0,21.80627,539.6699,-334.9771)"
+       spreadMethod="pad"
+       id="radialGradient3345">
+      <stop
+         style="stop-opacity:1;stop-color:#e62329"
+         offset="0"
+         id="stop3347" />
+      <stop
+         style="stop-opacity:1;stop-color:#9c2529"
+         offset="0.52681"
+         id="stop3349" />
+      <stop
+         style="stop-opacity:1;stop-color:#9c2529"
+         offset="0.52681"
+         id="stop3351" />
+      <stop
+         style="stop-opacity:1;stop-color:#702527"
+         offset="0.70505"
+         id="stop3353" />
+      <stop
+         style="stop-opacity:1;stop-color:#702527"
+         offset="1"
+         id="stop3355" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.728246"
+     inkscape:cx="109.2048"
+     inkscape:cy="-1.307205"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="960"
+     inkscape:window-height="1148"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     fit-margin-top="0.2"
+     fit-margin-left="0.2"
+     fit-margin-right="0.2"
+     fit-margin-bottom="0.2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-186.3172,-227.283)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="184.85789"
+       y="258.38229"
+       id="text3336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="184.85789"
+         y="258.38229">simulati.no</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#bd0000;stroke-width:0.6900004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 368.8317,260.57 c 4.6413,16.7386 17.66,16.2255 24.8349,0.9358"
+       id="path3386"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="0.6060651"
+       inkscape:transform-center-y="5.933389" />
+    <g
+       id="g3333"
+       transform="matrix(0.3953151,0,0,0.3953151,137.9411,386.4)">
+      <g
+         id="g3335">
+        <g
+           id="g3341">
+          <g
+             id="g3343">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 526.8535,-330.354 c 0,-6.4731 5.2442,-11.7207 11.7129,-11.7207 6.4688,0 11.7129,5.2476 11.7129,11.7207 0,6.4731 -5.2441,11.7202 -11.7129,11.7202 -6.4687,0 -11.7129,-5.2471 -11.7129,-11.7202 z"
+               style="fill:url(#radialGradient3345);stroke:none"
+               id="path3357" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
