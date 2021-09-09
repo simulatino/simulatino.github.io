@@ -1,6 +1,3 @@
----
----
-
 # ![simulati.no logo](logo.svg)
 
  > Simulation with a "twist"
