@@ -1,4 +1,4 @@
-# Welcome to
+## Welcome to Simulati.no
 
 ![simulati.no logo](logo.svg)
 
