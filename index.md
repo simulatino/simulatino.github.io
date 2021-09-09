@@ -1,4 +1,6 @@
-# ![simulati.no logo](logo.svg)
+# Welcome to
+
+![simulati.no logo](logo.svg)
 
  > Simulation with a "twist"
 
